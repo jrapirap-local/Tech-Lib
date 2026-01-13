@@ -1,0 +1,14 @@
+C:\Users\Jeffrey Rapirap\source\repos\VertAccount.TechLabsLib\VertAccount.TechLabsLib\VertAccount.TechLabsLib\bin\Debug\net6.0\VertAccount.TechLabsLib.deps.json
+C:\Users\Jeffrey Rapirap\source\repos\VertAccount.TechLabsLib\VertAccount.TechLabsLib\VertAccount.TechLabsLib\bin\Debug\net6.0\VertAccount.TechLabsLib.dll
+C:\Users\Jeffrey Rapirap\source\repos\VertAccount.TechLabsLib\VertAccount.TechLabsLib\VertAccount.TechLabsLib\bin\Debug\net6.0\VertAccount.TechLabsLib.pdb
+C:\Users\Jeffrey Rapirap\source\repos\VertAccount.TechLabsLib\VertAccount.TechLabsLib\VertAccount.TechLabsLib\bin\Debug\net6.0\VertAccount.TechLabsLib.xml
+C:\Users\Jeffrey Rapirap\source\repos\VertAccount.TechLabsLib\VertAccount.TechLabsLib\VertAccount.TechLabsLib\obj\Debug\net6.0\VertAccount.TechLabsLib.Properties.Resources.resources
+C:\Users\Jeffrey Rapirap\source\repos\VertAccount.TechLabsLib\VertAccount.TechLabsLib\VertAccount.TechLabsLib\obj\Debug\net6.0\VertAccount.TechLabsLib.csproj.GenerateResource.cache
+C:\Users\Jeffrey Rapirap\source\repos\VertAccount.TechLabsLib\VertAccount.TechLabsLib\VertAccount.TechLabsLib\obj\Debug\net6.0\VertAccount.TechLabsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeffrey Rapirap\source\repos\VertAccount.TechLabsLib\VertAccount.TechLabsLib\VertAccount.TechLabsLib\obj\Debug\net6.0\VertAccount.TechLabsLib.AssemblyInfoInputs.cache
+C:\Users\Jeffrey Rapirap\source\repos\VertAccount.TechLabsLib\VertAccount.TechLabsLib\VertAccount.TechLabsLib\obj\Debug\net6.0\VertAccount.TechLabsLib.AssemblyInfo.cs
+C:\Users\Jeffrey Rapirap\source\repos\VertAccount.TechLabsLib\VertAccount.TechLabsLib\VertAccount.TechLabsLib\obj\Debug\net6.0\VertAccount.TechLabsLib.csproj.CoreCompileInputs.cache
+C:\Users\Jeffrey Rapirap\source\repos\VertAccount.TechLabsLib\VertAccount.TechLabsLib\VertAccount.TechLabsLib\obj\Debug\net6.0\VertAccount.TechLabsLib.dll
+C:\Users\Jeffrey Rapirap\source\repos\VertAccount.TechLabsLib\VertAccount.TechLabsLib\VertAccount.TechLabsLib\obj\Debug\net6.0\refint\VertAccount.TechLabsLib.dll
+C:\Users\Jeffrey Rapirap\source\repos\VertAccount.TechLabsLib\VertAccount.TechLabsLib\VertAccount.TechLabsLib\obj\Debug\net6.0\VertAccount.TechLabsLib.pdb
+C:\Users\Jeffrey Rapirap\source\repos\VertAccount.TechLabsLib\VertAccount.TechLabsLib\VertAccount.TechLabsLib\obj\Debug\net6.0\ref\VertAccount.TechLabsLib.dll

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>VertAccount.TechLabsLib.Activities.Implementation</id>
+    <version>1.0.0</version>
+    <title>TechLabs Activities</title>
+    <authors>VertAccount.TechLabsLib.Activities</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Microsoft.Data.SqlClient" version="6.1.0" exclude="Build,Analyzers" />
+        <dependency id="PDFsharp" version="6.2.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Jeffrey Rapirap\source\repos\VertAccount.TechLabsLib\VertAccount.TechLabsLib\VertAccount.TechLabsLib.Activities\bin\Debug\net6.0\VertAccount.TechLabsLib.Activities.dll" target="lib\net6.0\VertAccount.TechLabsLib.Activities.dll" />
+    <file src="C:\Users\Jeffrey Rapirap\source\repos\VertAccount.TechLabsLib\VertAccount.TechLabsLib\VertAccount.TechLabsLib.Activities\bin\Debug\net6.0\VertAccount.TechLabsLib.Activities.xml" target="lib\net6.0\VertAccount.TechLabsLib.Activities.xml" />
+  </files>
+</package>

@@ -1,0 +1,277 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Jeffrey Rapirap\\source\\repos\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib.Activities.Design\\VertAccount.TechLabsLib.Activities.Design.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jeffrey Rapirap\\source\\repos\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib.Activities.Design\\VertAccount.TechLabsLib.Activities.Design.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jeffrey Rapirap\\source\\repos\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib.Activities.Design\\VertAccount.TechLabsLib.Activities.Design.csproj",
+        "projectName": "VertAccount.TechLabsLib.Activities",
+        "projectPath": "C:\\Users\\Jeffrey Rapirap\\source\\repos\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib.Activities.Design\\VertAccount.TechLabsLib.Activities.Design.csproj",
+        "packagesPath": "C:\\Users\\Jeffrey Rapirap\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jeffrey Rapirap\\source\\repos\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib.Activities.Design\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jeffrey Rapirap\\source\\repos\\VertAccount.TechLabsLib\\.nuget\\NuGet.Config",
+          "C:\\Users\\Jeffrey Rapirap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Jeffrey Rapirap\\Documents\\Vertaccount\\RPA\\nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gallery.uipath.com/api/v3/index.json": {},
+          "https://nuget.org/api/v2/": {},
+          "https://www.myget.org/F/uipath/": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Jeffrey Rapirap\\source\\repos\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib.Activities\\VertAccount.TechLabsLib.Activities.csproj": {
+                "projectPath": "C:\\Users\\Jeffrey Rapirap\\source\\repos\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib.Activities\\VertAccount.TechLabsLib.Activities.csproj",
+                "privateAssets": "all"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.4, )"
+            },
+            "PDFsharp": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            },
+            "System.Activities.Core.Presentation": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0-*, )"
+            },
+            "UiPath.Workflow": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0-20220909-01, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jeffrey Rapirap\\source\\repos\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib.Activities\\VertAccount.TechLabsLib.Activities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jeffrey Rapirap\\source\\repos\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib.Activities\\VertAccount.TechLabsLib.Activities.csproj",
+        "projectName": "VertAccount.TechLabsLib.Activities.Implementation",
+        "projectPath": "C:\\Users\\Jeffrey Rapirap\\source\\repos\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib.Activities\\VertAccount.TechLabsLib.Activities.csproj",
+        "packagesPath": "C:\\Users\\Jeffrey Rapirap\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jeffrey Rapirap\\source\\repos\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib.Activities\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jeffrey Rapirap\\source\\repos\\VertAccount.TechLabsLib\\.nuget\\NuGet.Config",
+          "C:\\Users\\Jeffrey Rapirap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Jeffrey Rapirap\\Documents\\Vertaccount\\RPA\\nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gallery.uipath.com/api/v3/index.json": {},
+          "https://nuget.org/api/v2/": {},
+          "https://www.myget.org/F/uipath/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Jeffrey Rapirap\\source\\repos\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib.csproj": {
+                "projectPath": "C:\\Users\\Jeffrey Rapirap\\source\\repos\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib.csproj",
+                "privateAssets": "all"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.4, )"
+            },
+            "PDFsharp": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            },
+            "System.Activities.Metadata": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0-*, )"
+            },
+            "UiPath.Workflow.Runtime": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0-20220909-01, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jeffrey Rapirap\\source\\repos\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jeffrey Rapirap\\source\\repos\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib.csproj",
+        "projectName": "VertAccount.TechLabsLib",
+        "projectPath": "C:\\Users\\Jeffrey Rapirap\\source\\repos\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib.csproj",
+        "packagesPath": "C:\\Users\\Jeffrey Rapirap\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jeffrey Rapirap\\source\\repos\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib\\VertAccount.TechLabsLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jeffrey Rapirap\\source\\repos\\VertAccount.TechLabsLib\\.nuget\\NuGet.Config",
+          "C:\\Users\\Jeffrey Rapirap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Jeffrey Rapirap\\Documents\\Vertaccount\\RPA\\nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gallery.uipath.com/api/v3/index.json": {},
+          "https://nuget.org/api/v2/": {},
+          "https://www.myget.org/F/uipath/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
